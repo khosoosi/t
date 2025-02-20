@@ -1,15 +1,6 @@
 #EXTM3U
-#EXTINF:0,VOA 
-https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-#EXTINF:0,Tapesh
-https://iptv.tapesh.tv/tapesh/playlist_src/index.m3u8
-#EXTINF:0,ITN
-https://itnhls.wns.live/hls/stream.m3u8
-#EXTINF:0,Omid e Iran
-https://oitnhls.wns.live/hls/stream.m3u8
-#EXTINF:23,Pars
-https://livestream.5centscdn.com/parstvbkup/a442df07ca95af01bed2009df48bca5c.sdp/chunks.m3u8?md5=pH24E374aXigNh6y4vi8Fg&expires=1689020092
-#EXTINF:64, PMC Persian Music Channel
-https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:30,AFN
-https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:33,Oprah Winfrey Network (OWN)
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium331/index.m3u8
